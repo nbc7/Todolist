@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="label_toolbar">Criar Tarefa</string>
+    <string name="label_titulo">Título</string>
+    <string name="label_texto">Tarefa</string>
+    <string name="label_data">Data</string>
+    <string name="label_hora">Hora</string>
+    <string name="label_cancelar">Cancelar</string>
+    <string name="main_titulo">Tarefas</string>
+    <string name="adicionar">Nova Tarefa</string>
+    <string name="label_add">Adicionar</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_empty_task">Você não tem\nnenhuma tarefa</string>
+    <string name="add_fragment_title">Adicionar Tarefa</string>
+    <string name="edit_fragment_title">Editar Tarefa</string>
+    <string name="delete_question">Tem certeza que quer deletar?</string>
+    <string name="complete_question">Concluir tarefa?</string>
+    <string name="dialog_alert_title">Aviso</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_detalhes">Detalhes (opcional)</string>
+    <string name="tool_detalhes">"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Donec cursus mi faucibus sem congue ornare.
+Sed ac diam vitae ipsum ornare vehicula.
+Phasellus semper lacus a mauris rhoncus, et cursus sem auctor.
+Curabitur auctor dolor et arcu porta porta.
+Mauris vestibulum dui ultrices ultrices aliquet.
+Pellentesque condimentum urna et consequat consequat.
+Duis quis ex ac enim porttitor malesuada.
+Cras pellentesque felis eget urna sodales vulputate.
+Sed sit amet velit ut neque vestibulum pulvinar eget eu justo.
+Proin efficitur augue eu auctor semper.
+Cras sit amet purus ut dui porttitor rhoncus sit amet sit amet magna.
+Quisque eu neque viverra, molestie neque vitae, placerat urna.
+Duis at velit efficitur felis molestie vulputate id ac ex.
+Praesent ut justo in mi maximus tristique.
+Quisque tincidunt elit et est congue consequat.
+Cras et nunc ac nibh dignissim pulvinar at varius nunc.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Donec cursus mi faucibus sem congue ornare.
+Sed ac diam vitae ipsum ornare vehicula.
+Phasellus semper lacus a mauris rhoncus, et cursus sem auctor.
+Curabitur auctor dolor et arcu porta porta.
+Mauris vestibulum dui ultrices ultrices aliquet.
+Pellentesque condimentum urna et consequat consequat.
+Duis quis ex ac enim porttitor malesuada.
+Cras pellentesque felis eget urna sodales vulputate.
+Sed sit amet velit ut neque vestibulum pulvinar eget eu justo.
+Proin efficitur augue eu auctor semper.
+Cras sit amet purus ut dui porttitor rhoncus sit amet sit amet magna.
+Quisque eu neque viverra, molestie neque vitae, placerat urna.
+Duis at velit efficitur felis molestie vulputate id ac ex.
+Praesent ut justo in mi maximus tristique.
+Quisque tincidunt elit et est congue consequat.
+Cras et nunc ac nibh dignissim pulvinar at varius nunc."</string>
+    <string name="label_duplicate">Duplicar</string>
+    <string name="label_completed">Marcar como concluído</string>
+    <string name="label_Tarefas">Tarefas</string>
+    <string name="label_Concluido">Concluido</string>
+    <string-array name="lists">
+        <item>Tarefas</item>
+        <item>Concluido</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tarefas"
+        android:title="@string/label_Tarefas" />
+
+    <item
+        android:id="@+id/concluido"
+        android:title="@string/label_Concluido" />
+</menu>

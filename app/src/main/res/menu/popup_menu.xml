@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/completed"
+        android:title="@string/label_completed" />
+
+    <item
+        android:id="@+id/edit"
+        android:title="@string/label_edit" />
+
+    <item
+        android:id="@+id/duplicate"
+        android:title="@string/label_duplicate" />
+
+    <item
+        android:id="@+id/delete"
+        android:title="@string/label_delete" />
+</menu>
